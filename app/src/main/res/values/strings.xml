@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPrint</string>
+    <string name="changeLogTextString">FC: WID, WSN, TICKET\nMH: BagLabel\nLarge: Label, WID, WSN, TICKET, Invoice\nGrocery: Label, Invoice, WID ,WSN, TICKET</string>
+</resources>
